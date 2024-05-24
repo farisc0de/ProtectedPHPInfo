@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "username": "faris",
-      "password": "$2y$10$Fmdu./aXXoyjojGU3veyt.HtF.H1KzmpGIIWcUQY.7J2/6ngIMWK6"
+      "username": "admin",
+      "password": "$2y$10$05nuvkHFQFAuTgPrHUmQdu02yhAq2lGxebGAzFoMBkNdN5tnM512y"
     }
   ]
 }
