@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      id: 1
-      username: "faris"
-      password: "123456"
+      "id": 1,
+      "username": "faris",
+      "password": "$2y$10$Fmdu./aXXoyjojGU3veyt.HtF.H1KzmpGIIWcUQY.7J2/6ngIMWK6"
     }
   ]
 }
